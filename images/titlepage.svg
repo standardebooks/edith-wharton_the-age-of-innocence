@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of The Age of Innocence, by Edith Wharton</title>
 	<style type="text/css">
 		text{
-			font-family: league spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
@@ -16,7 +16,7 @@
 			font-size: 70.17543793px;
 		}
 	</style>
-	<text class="title" x="700" y="130">THE</text>
-	<text class="title" x="700" y="230">AGE OF INNOCENCE</text>
+	<text class="title" x="700" y="130">THE AGE</text>
+	<text class="title" x="700" y="230">OF INNOCENCE</text>
 	<text class="author" x="700" y="390">EDITH WHARTON</text>
 </svg>
