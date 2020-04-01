@@ -51,9 +51,10 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008113118</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Gentleman Newland Archer of upper-class New York society is set to wed May Welland in a picture-perfect union, until the bride’s cousin returns to the family from abroad and threatens to draw his love away.</dc:description>
+		<dc:description id="description">Gentleman Newland Archer of upper-class New York society is set to wed May Welland in a picture-perfect union, until the bride’s disgraced cousin returns from overseas and threatens to draw his love away.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This is a long description of the book.&lt;/p&gt;
+			&lt;p&gt;Gentleman Newland Archer of upper-class New York society is set to wed May Welland in a picture-perfect union when the bride&rsquo;s cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family&rsquo;s good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his new-found passion for the forbidden Countess.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The Age of Innocence&lt;/i&gt; was originally introduced in 1920 in the magazine &lt;i&gt;Pictoral Review&lt;/i&gt; in four parts. It was then published later that year as Edith Wharton&rsquo;s twelve novel and won the 1921 Pulitzer Prize for Fiction, solidifying Edith as the first woman to win the award.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/541</dc:source>
