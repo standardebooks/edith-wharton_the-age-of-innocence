@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-04-01T22:34:06Z</dc:date>
+		<meta property="dcterms:modified">2020-04-01T22:34:06Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,15 +51,15 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008113118</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Gentleman Newland Archer of upper-class New York society is set to wed May Welland in a picture-perfect union, until the bride’s disgraced cousin returns from overseas and threatens to draw his love away.</dc:description>
+		<dc:description id="description">Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union, until the bride’s disgraced cousin returns from overseas and threatens to draw his love away.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Gentleman Newland Archer of upper-class New York society is set to wed May Welland in a picture-perfect union when the bride’s cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family’s good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his new-found passion for the forbidden Countess.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Age of Innocence&lt;/i&gt; was originally introduced in 1920 in the magazine &lt;i&gt;Pictoral Review&lt;/i&gt; in four parts. It was then published later that year as Edith Wharton’s twelve novel and won the 1921 Pulitzer Prize for Fiction, solidifying Edith as the first woman to win the award.&lt;/p&gt;
+			&lt;p&gt;Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union when the bride’s cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family’s good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his new-found passion for the forbidden Countess.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Age of Innocence&lt;/i&gt; was originally published in 1920 as a four-part series in &lt;i&gt;Pictoral Review&lt;/i&gt;, then later that same year as Wharton’s twelfth novel. It went on to win the 1921 Pulitzer Prize for Fiction, making Wharton the first woman to win the award.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/541</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">103765</meta>
+		<meta property="se:reading-ease.flesch">68.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Age_of_Innocence</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edith-wharton_the-age-of-innocence</meta>
 		<dc:creator id="author">Edith Wharton</dc:creator>
@@ -87,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
