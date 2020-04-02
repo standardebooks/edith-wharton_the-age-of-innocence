@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>Punctuation is correct; when a question mark or exclamation mark ends a quotation, the comma goes outside the quotation marks.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
