@@ -54,6 +54,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">58</meta>
+		<meta id="collection-2" property="belongs-to-collection">Pulitzer Prize Winners</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">3</meta>
 		<dc:description id="description">Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union, until the bride’s disgraced cousin returns from overseas and threatens to draw his love away.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union when the bride’s cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family’s good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his new-found passion for the forbidden Countess.&lt;/p&gt;
