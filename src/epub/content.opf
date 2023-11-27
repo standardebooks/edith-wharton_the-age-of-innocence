@@ -67,7 +67,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/541</dc:source>
 		<dc:source>https://archive.org/details/ageinnocence01whargoog</dc:source>
-		<meta property="se:word-count">103764</meta>
+		<meta property="se:word-count">103762</meta>
 		<meta property="se:reading-ease.flesch">68.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Age_of_Innocence</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edith-wharton_the-age-of-innocence</meta>
